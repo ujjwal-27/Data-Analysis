@@ -6,3 +6,6 @@ delete from shirts where article = 'tank top';
 
 select * from shirts;
 delete from shirts;
+
+drop table shirts;
+drop database shirts_db;
