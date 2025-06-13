@@ -1,0 +1,1 @@
+SELECT reverse(title) as reversed_title from books;
