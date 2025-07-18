@@ -1,0 +1,1 @@
+select birthdt, date_format(birthdate, '%d %M, %Y') from people;
