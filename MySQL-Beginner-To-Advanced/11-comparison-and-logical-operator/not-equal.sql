@@ -1,0 +1,1 @@
+select * from books where released_year != 2003;
